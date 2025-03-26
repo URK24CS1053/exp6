@@ -1,0 +1,1 @@
+This python program is a Course Registration System and allows users to enroll for courses.
