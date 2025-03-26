@@ -64,5 +64,3 @@ while True:
         print("Exiting the system.")
         break
 
-    else:
-        print("Invalid choice. Please try again.")
